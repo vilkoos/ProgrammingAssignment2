@@ -84,7 +84,6 @@ cMat$set(mat)
 #--- invert frist time ------ 
 imat <- cacheSolve(cMat)
 print(imat)
-#cMat$setInv(imat)
 
 #--- invert second time ----
 #--- note the cache is used ----

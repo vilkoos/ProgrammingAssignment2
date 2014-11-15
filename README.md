@@ -1,3 +1,16 @@
+
+
+----------
+### introductory remark 
+ 
+For learning purposes I have created a somewhat verbose solution
+(it is very well possible to write more compact R code, 
+ e.g. to make things more clear I have used explicit returns)
+
+----------
+
+
+
 ### Introduction
 
 This second programming assignment will require you to write an R
